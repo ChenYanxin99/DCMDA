@@ -7,7 +7,7 @@
  The feature fusion module combines the association matrix feature with the heterogeneous network feature through a Cross-Attention mechanism, thereby obtaining deep representations of metabolites and diseases.
 
 # Code
-The DCMDA source code is accessible for academic use at https://github.com/ChenYanxin999/DCMDA/tree/master.
+The DCMDA source code is accessible for academic use at https://github.com/ChenYanxin99/DCMDA.git.
 
 # Datasets
 + 2262 metabolites
